@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "lib_data",
+    "script": "production.js",
+    "cwd": "/Users/AaronLeong/coding.net/lib_data",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
